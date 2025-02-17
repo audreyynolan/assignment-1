@@ -10,7 +10,7 @@
 </head>
 <body>
     <header>
-        <h1> The Life and Career of Gracie Abrams </h1>
+        <h1> The Life and Career of Gracie Abrams  </h1>
         <p> Gracie Abrams is an American singer-songwriter born September 7, 1999 in 
             Los Angeles, California. She gained recognition from her debut album Minor, after signing with 
             interscope Records in 2019. </p>
