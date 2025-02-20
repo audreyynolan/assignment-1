@@ -73,7 +73,7 @@
     <small> 
     Audrey Nolan is a Marketing major at the University of Miami. 
         She grew up in Hingham, Massachusetts and now goes to school in Florida. Audrey is a big fan of 
-        Gracie Abrams and her music and is in a Web Lab class.</small> </p> </</footer> section> 
+        Gracie Abrams and her music and is in a Web Lab class.</small> </p> </</footer> 
 </body>
 </html>
 
