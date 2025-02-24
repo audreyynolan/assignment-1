@@ -54,9 +54,10 @@
  <!--Section 5-->
  <section> 
     <h2> Gallery </h2>
-    <img src="Images/Gracie.jpeg" alt="Younger Gracie"></section>
-    <section>
-    <img src="Images/gracie2.jpeg" alt="Gracie Singing"></section>
+    <img src="Gracie.jpeg" alt="younger gracie"></section>
+
+    
+<img src="Images/gracie2.jpeg" alt="Gracie Singing"></section>
     
 <section>  <img src="Images/gracie3.jpeg" alt="Gracie with Taylor"></section> 
  
